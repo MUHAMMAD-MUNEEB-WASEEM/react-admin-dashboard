@@ -1,0 +1,93 @@
+.userPage{
+    flex: 0.8;
+    padding: 20px;
+}
+
+.userTitle__container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.user__button{
+    width: 80px;
+    border: none;
+    padding: 5px;
+    background-color: teal;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    font-size: 16px;
+}
+
+.userContainer{
+    display: flex;
+    margin-top: 20px;
+}
+
+.userContainer__show{
+    flex: 1;
+    padding: 20px;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+}
+
+.userContainer__update{
+    flex: 2;
+    padding: 20px;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    margin-left: 20px;
+}
+
+.userShow__top{
+    display: flex;
+    align-items: center;
+}
+
+.userShowTop__img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.userShowTop__title{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.userShowTitle__username{
+    font-weight: 600;
+}
+
+.userShowTitle__title{
+    font-weight: 300;
+}
+
+.userShow__bottom{
+    margin-top: 20px;
+}
+
+.userShowBottom__title{
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(175, 170, 170);
+}
+
+.userShowBottom__info{
+    display: flex;
+    align-items: center;
+    margin: 20px 0px;
+    color: #444;
+    
+}
+
+.userShow__icon{
+    font-size: 16px !important;
+}
+
+.userShowBottomInfo__title{
+    margin-left: 10px;
+}

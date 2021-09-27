@@ -6,6 +6,7 @@ import Home from './pages/Home/Home';
 
 import {BrowserRouter as Router, Switch, Route, Link} from 'react-router-dom'
 import UserList from './pages/UserList/UserList';
+import UserPage from './pages/UserPage/UserPage';
 
 
 function App() {
@@ -26,6 +27,10 @@ function App() {
 
             <Route path="/users">
               <UserList/>
+            </Route>
+
+            <Route path="/user/:userId">
+              <UserPage/>
             </Route>
 
           </Switch>
