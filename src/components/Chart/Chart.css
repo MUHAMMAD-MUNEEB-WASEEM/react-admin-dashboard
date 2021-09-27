@@ -8,3 +8,8 @@
 .chart__title{
     margin-bottom: 20px;
 }
+
+.home__widgets{
+    display: flex;
+    margin: 20px
+}
