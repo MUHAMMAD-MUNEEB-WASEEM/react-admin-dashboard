@@ -59,7 +59,7 @@ function Sidebar() {
                    
                     <ul className="sidebar__list">
                       
-                        <li className="sidebarList__item active">
+                        <li className="sidebarList__item">
                             <PermIdentity className="sidebar__icon" />
                             Users
                         </li>
@@ -86,7 +86,7 @@ function Sidebar() {
                    
                     <ul className="sidebar__list">
                       
-                        <li className="sidebarList__item active">
+                        <li className="sidebarList__item">
                             <MailOutline className="sidebar__icon" />
                             Mail
                         </li>
@@ -113,7 +113,7 @@ function Sidebar() {
                    
                     <ul className="sidebar__list">
                       
-                        <li className="sidebarList__item active">
+                        <li className="sidebarList__item">
                             <WorkOutline className="sidebar__icon" />
                             Manage
                         </li>
