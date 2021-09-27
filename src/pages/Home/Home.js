@@ -1,9 +1,9 @@
 import React from 'react'
-import Chart from '../components/Chart/Chart'
-import FeaturedInfo from '../components/FeaturedInfo/FeaturedInfo'
-import WidgetsLarge from '../components/WidgetsLarge/WidgetsLarge'
-import WidgetsSmall from '../components/WidgetsSmall/WidgetsSmall'
-import { userData } from '../DummyData'
+import Chart from '../../components/Chart/Chart'
+import FeaturedInfo from '../../components/FeaturedInfo/FeaturedInfo'
+import WidgetsLarge from '../../components/WidgetsLarge/WidgetsLarge'
+import WidgetsSmall from '../../components/WidgetsSmall/WidgetsSmall'
+import { userData } from '../../DummyData'
 import './Home.css'
 
 

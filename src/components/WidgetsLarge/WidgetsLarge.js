@@ -24,7 +24,7 @@ function WidgetsLarge() {
                 <tr className="widgetsLarge__tr">
                     <td className="widgetsLarge__user">
                         <img className="widgetsLarge__img" src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500" alt=""/>
-                        <span className="widgetsLarge__name">Jackie Jan</span>
+                        <span className="widgetsLarge__name">Daisy</span>
                     </td>
                     <td className="widgetsLarge__date">27 Sep 2021</td>
                     <td className="widgetsLarge__amount">$122.00</td>
@@ -36,7 +36,7 @@ function WidgetsLarge() {
                 <tr className="widgetsLarge__tr">
                     <td className="widgetsLarge__user">
                         <img className="widgetsLarge__img" src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500" alt=""/>
-                        <span className="widgetsLarge__name">Jackie Jan</span>
+                        <span className="widgetsLarge__name">Maria</span>
                     </td>
                     <td className="widgetsLarge__date">27 Sep 2021</td>
                     <td className="widgetsLarge__amount">$122.00</td>
@@ -48,7 +48,7 @@ function WidgetsLarge() {
                 <tr className="widgetsLarge__tr">
                     <td className="widgetsLarge__user">
                         <img className="widgetsLarge__img" src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500" alt=""/>
-                        <span className="widgetsLarge__name">Jackie Jan</span>
+                        <span className="widgetsLarge__name">katty</span>
                     </td>
                     <td className="widgetsLarge__date">27 Sep 2021</td>
                     <td className="widgetsLarge__amount">$122.00</td>
@@ -60,7 +60,7 @@ function WidgetsLarge() {
                 <tr className="widgetsLarge__tr">
                     <td className="widgetsLarge__user">
                         <img className="widgetsLarge__img" src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500" alt=""/>
-                        <span className="widgetsLarge__name">Jackie Jan</span>
+                        <span className="widgetsLarge__name">Lauren</span>
                     </td>
                     <td className="widgetsLarge__date">27 Sep 2021</td>
                     <td className="widgetsLarge__amount">$122.00</td>
