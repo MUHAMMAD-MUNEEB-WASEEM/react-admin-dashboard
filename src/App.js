@@ -7,6 +7,7 @@ import Home from './pages/Home/Home';
 import {BrowserRouter as Router, Switch, Route, Link} from 'react-router-dom'
 import UserList from './pages/UserList/UserList';
 import UserPage from './pages/UserPage/UserPage';
+import NewUser from './pages/NewUser/NewUser';
 
 
 function App() {
@@ -31,6 +32,10 @@ function App() {
 
             <Route path="/user/:userId">
               <UserPage/>
+            </Route>
+
+            <Route path="/newUSer">
+              <NewUser/>
             </Route>
 
           </Switch>
