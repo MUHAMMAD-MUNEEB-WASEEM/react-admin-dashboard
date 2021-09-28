@@ -8,6 +8,7 @@ import {BrowserRouter as Router, Switch, Route, Link} from 'react-router-dom'
 import UserList from './pages/UserList/UserList';
 import UserPage from './pages/UserPage/UserPage';
 import NewUser from './pages/NewUser/NewUser';
+import ProductList from './pages/ProductList/ProductList';
 
 
 function App() {
@@ -34,7 +35,15 @@ function App() {
               <UserPage/>
             </Route>
 
-            <Route path="/newUSer">
+            <Route path="/newUser">
+              <NewUser/>
+            </Route>
+
+            <Route path="/products">
+              <ProductList/>
+            </Route>
+
+            <Route path="/product/:productId">
               <NewUser/>
             </Route>
 
