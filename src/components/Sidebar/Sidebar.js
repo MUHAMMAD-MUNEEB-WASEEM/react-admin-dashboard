@@ -33,10 +33,12 @@ function Sidebar() {
                    
                     <ul className="sidebar__list">
                       
-                        <li className="sidebarList__item active">
-                            <LineStyle className="sidebar__icon" />
-                            Home
-                        </li>
+                      <Link to='/' className="link">
+                            <li className="sidebarList__item active">
+                                <LineStyle className="sidebar__icon" />
+                                Home
+                            </li>
+                        </Link>
 
 
                         <li className="sidebarList__item">

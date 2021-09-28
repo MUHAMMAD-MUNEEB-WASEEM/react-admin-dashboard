@@ -14,7 +14,7 @@ function WidgetsSmall() {
                 {/*First User*/}
 
                 <li className="widgetsSmallList__item">
-                    <img className="widgetSmall__img" src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500" alt="" />
+                    <img className="widgetSmall__img" src="https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" alt="" />
 
                     <div className="widgetsSmall__user">
                         <span className="widgetsSmallList__username">John Smith</span>

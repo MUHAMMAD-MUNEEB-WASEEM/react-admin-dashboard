@@ -1,5 +1,6 @@
 import React from 'react'
 import './TopBar.css'
+import { Link } from 'react-router-dom'
 
 //material ui
 import { NotificationsNone, Language, Settings } from "@material-ui/icons";
@@ -12,9 +13,11 @@ function TopBar() {
             <div className="topbar__wrapper">
 
                 <div className="top__left">
-                    <span className="left__logo">
-                        Leadastaire Admin
-                    </span>
+                     <Link to='/' className="link">
+                        <span className="left__logo">
+                            Leadastaire Admin
+                        </span>
+                    </Link>
                 </div>
 
                 <div className="top__right">

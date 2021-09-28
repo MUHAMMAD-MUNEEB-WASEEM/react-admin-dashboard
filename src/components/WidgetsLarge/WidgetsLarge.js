@@ -23,7 +23,7 @@ function WidgetsLarge() {
 
                 <tr className="widgetsLarge__tr">
                     <td className="widgetsLarge__user">
-                        <img className="widgetsLarge__img" src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500" alt=""/>
+                        <img className="widgetsLarge__img" src="https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" alt=""/>
                         <span className="widgetsLarge__name">Daisy</span>
                     </td>
                     <td className="widgetsLarge__date">27 Sep 2021</td>
