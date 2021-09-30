@@ -1,10 +1,15 @@
 ## React Admin Panel:
 
-A well-built admin panel will increase productivity and give insight into data. I have created admin panel using react with users and products pages consisting of charts, new users and products, page to create and update user with elegant UI. This is not connected to any backend. So next step is to connect it with some backend and make and complete full stack app
+A well-built admin panel will increase productivity and give insight into data. I have created admin panel using react with users and products pages consisting of charts, new users and products, page to create and update user with elegant UI. It will now connect to **Netflix** frontend made using reactjs and scss and also connected to backend comprises of **mongodb database, nodejs and fully functional apis** . Thus, this admin panel is a part of full stack Netflix built
 
 ## App Link:
 
 https://admin-panel-c0138.web.app/users
+
+## Netflix Frontend UI:
+
+**Repo Link**:
+https://github.com/MUHAMMAD-MUNEEB-WASEEM/netflix-frontend-react-scss.git
 
 ## Creating Project:
 
